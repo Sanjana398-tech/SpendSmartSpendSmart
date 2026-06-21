@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpendSmart — Full-Stack Expense Tracker
 
 A beautiful, animated personal finance tracker with a Node.js/Express backend
@@ -158,3 +159,6 @@ the frontend will load with sample data without needing the backend.
 - Category-level budgets
 - Spending trends over last 6 months
 - Dark mode UI with ambient animations
+=======
+# SpendSmartSpendSmart
+>>>>>>> 184f26d507d07219f0c51fb4c66c157abee27881
